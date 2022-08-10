@@ -1,5 +1,5 @@
-D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/CG_Phase2/build/CMakeFiles/GAME_APPLICATION.dir
-D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/CG_Phase2/build/CMakeFiles/ALL_BUILD.dir
-D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/CG_Phase2/build/CMakeFiles/ZERO_CHECK.dir
-D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/CG_Phase2/build/vendor/glfw/CMakeFiles/ALL_BUILD.dir
-D:/study affairs/syllabus/3rd year/2nd semester/computer graphics/CG_Phase2/build/vendor/glfw/src/CMakeFiles/glfw.dir
+D:/study affairs/syllabus/3rd year/2nd semester/Computer Graphics/Super-Mario-Race/build/CMakeFiles/GAME_APPLICATION.dir
+D:/study affairs/syllabus/3rd year/2nd semester/Computer Graphics/Super-Mario-Race/build/CMakeFiles/ALL_BUILD.dir
+D:/study affairs/syllabus/3rd year/2nd semester/Computer Graphics/Super-Mario-Race/build/CMakeFiles/ZERO_CHECK.dir
+D:/study affairs/syllabus/3rd year/2nd semester/Computer Graphics/Super-Mario-Race/build/vendor/glfw/CMakeFiles/ALL_BUILD.dir
+D:/study affairs/syllabus/3rd year/2nd semester/Computer Graphics/Super-Mario-Race/build/vendor/glfw/src/CMakeFiles/glfw.dir
