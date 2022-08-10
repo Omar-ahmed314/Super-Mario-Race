@@ -31,7 +31,7 @@ cd '.\CMPN205 Phase 2+3 - Student Version\'
 # Screenshots
 ## Start of the game
 ![start](Screenshots/Screenshot1.png)
-## Taking a boomb
-![boomb](Screenshots/Screenshot2.png)
+## Taking a bomb
+![bomb](Screenshots/Screenshot2.png)
 ## Simulation
 ![gif](Screenshots/gif.gif)
