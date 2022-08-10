@@ -23,14 +23,15 @@ cd '.\CMPN205 Phase 2+3 - Student Version\'
 ```bash 
 .\bin\GAME_APPLICATION.EXE 
 ```
+- Enjoy
 # How to play
 - W -> UP
 - A -> LEFT
 - D -> DOWN
 # Screenshots
-Start of the game
+## Start of the game
 ![start](Screenshots/Screenshot1.png)
-Taking a boomb
+## Taking a boomb
 ![boomb](Screenshots/Screenshot2.png)
-Simulation
+## Simulation
 ![gif](Screenshots/gif.gif)
