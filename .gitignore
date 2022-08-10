@@ -1,6 +1,5 @@
 
 # build directories
-cmake-build-*/
 build/
 out/
 bin/
@@ -20,6 +19,3 @@ CMakeSettings.json
 
 # Visual Studio Code specific files
 .vscode/
-
-# Screenshots
-screenshots/
